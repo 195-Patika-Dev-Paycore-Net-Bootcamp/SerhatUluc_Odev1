@@ -1,3 +1,5 @@
 # SerhatUluc_Odev1
 
-![](Swagger.PNG)
+![](Screenshots/Swagger.PNG)
+![](Screenshots/Postman.PNG)
+
